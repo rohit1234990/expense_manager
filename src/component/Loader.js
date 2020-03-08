@@ -7,7 +7,7 @@ class Loader extends React.Component {
         return (
             <div className='container-fluid'>
                 <div className='row'>
-                    <div className='col-12'>
+                    <div className='col-12 mt-1'>
                         <h2 className='bg-primary text-white p-3'>Expense Manager</h2>
                     </div>
                 </div>
